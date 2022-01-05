@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  padding:0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #f1356d;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #f1356d;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/*blog*/
+.blog-preview{
+  padding:10px 17px;
+  margin:20px 0;
+  border-bottom:1px solid #fafafa;
+}
+
+.blog-preview:hover{
+  box-shadow: 1px 3px 5px #111;
+  cursor: pointer;
+}
+
+.blog-preview h2{
+  font-size:20px;
+  color:#f1356d;
+  margin-bottom: 8px;
+}
+
+.blog-details{
+  padding:10px 17px;
+  margin:20px 0;
+  border-bottom:1px solid #fafafa;
+}
+.blog-details h2{
+  font-size:20px;
+  color:#f1356d;
+  margin-bottom: 8px;
+}
+.blog-details article{
+  margin:0 15em 0 15em;
+}
+.blog-preview{
+  margin-left: 25em;
+  margin-right: 25em;
+}
+.blog-preview a{
+  text-decoration: none;
+  margin:auto;
+}
+/* blog details page */
+.blog-details h2 {
+  font-size: 20px;
+  color:#f1356d;
+  margin-bottom: 10px;
+}
+
+.blog-details div {
+  margin: 20px 0;
+}
+
+.blog-details button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.create h2{
+  margin-left: 0;
+}
+
+.create form{
+  display: flex;
+  flex-direction: column;
+  margin:auto;
+  width:50%;
+
+}
+.create form label{
+  margin-right:auto;
+  font-size:1.5em;
+  padding-top:20px;
+}
+
+.create form input[type=submit],button{
+  width:100px;
+  height:40px;
+  margin:auto;
+  margin-top:10px;
+  font-size: 1.2em;
+  color:white;
+  background-color: #f1356d;
+  border-radius: 30px;
+  border: 20px black;
+}
+.create form button {
+  width: 150px;
+}
+.create form input[type=text]{
+  padding:10px;
+  font-size:20px;
+}
+
+.create form textarea{
+  font-size:20px;
+}
+
+.create form select{
+  font-size:20px;
+  width:50%;
+}
+
+
+ 

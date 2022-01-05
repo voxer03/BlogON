@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "first react program",
+      "body": "Hello world",
+      "author": "",
+      "id": 3
+    },
+    {
+      "title": "Our India",
+      "body": "The political scenario in India is a multi-party electoral system. Indian National Congress (INC) was the first-ever political party of India. India is currently governed by Bharatiya Janta Party (BJP). The Prime Minister of India is Narendra Damodardas Modi, while the President of the country is Ram Nath Kovind. The ministry of home affairs is taken care of by Amit Shah, and The ministry of external affairs or foreign affairs minister is Subhrahamanyam Jaishankar.\n\nIndia is considered a developing country and is expected to make it to the list of Superpowers in the year 2033. India is the second most populated country in India after China. The estimated population of India is 1,296,834,042, as in July 2019. India has astounding features with the Himalayas on the Northern Border and Ganges flowing in the country. New Delhi is the national capital of India.",
+      "author": "suchit",
+      "id": 4
+    },
+    {
+      "title": "React js",
+      "body": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
+      "author": "suchit",
+      "id": 5
+    },
+    {
+      "title": "Presentation",
+      "body": "A presentation conveys information from a speaker to an audience. Presentations are typically demonstrations, introduction, lecture, or speech meant to inform, persuade, inspire, motivate, build goodwill, or present a new idea/product.[1] Presentations usually require preparation, organization, event planning, writing, use of visual aids, dealing with stress, and answering questions.[2] “The key elements of a presentation consists of presenter, audience, message, reaction and method to deliver speech for organizational success in an effective manner.”[3] The term can also be used for a formal or ritualized introduction or offering, as with the presentation of a debutante.[4] Presentations in certain formats are also known as keynote[5] address. Interactive presentations, in which the audience is involved, are also represented more and more frequently. Instead of a monologue, this creates a dialogue between the speaker and the audience. The advantages of an interactive presentation is for example, that it attracts more attention from the audience and that the interaction creates a sense of community.",
+      "author": "voxer",
+      "id": 6
+    }
+  ]
+}
